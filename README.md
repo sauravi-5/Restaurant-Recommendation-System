@@ -1,6 +1,4 @@
-# Zomato-Restaurant-Recommendation-System
-
-# Zomato Restaurant Recommendation System
+# Restaurant Recommendation System
 
 A content-based restaurant recommender built on Zomato's Bangalore restaurant dataset. Given a restaurant a user likes, it recommends similar restaurants based on review text and other features.
 
