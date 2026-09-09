@@ -32,7 +32,3 @@ Zomato-Restaurant-Recommendation-System/
 2. Install dependencies: `pip install pandas numpy scikit-learn seaborn matplotlib`
 3. Run `Zomato.ipynb` top to bottom.
 4. Call `recommend("<restaurant name>")` to get recommendations.
-
-## Notes
-
-The current notebook reads the dataset from a local file path — swap this for a relative path or a data-loading cell if you want this to run out-of-the-box for others.
