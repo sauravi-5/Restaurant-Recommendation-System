@@ -11,7 +11,7 @@ A content-based restaurant recommender built on Zomato's Bangalore restaurant da
 
 ## Tech stack
 
-- Python
+- Python 
 - pandas, NumPy
 - scikit-learn (`TfidfVectorizer`, `cosine_similarity`, `CountVectorizer`)
 - seaborn, matplotlib (exploratory data analysis)
